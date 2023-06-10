@@ -1,0 +1,25 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+<div class="col-md-12">
+  <div class="card">
+    <div class="card-header">
+      <h4 class="text-center">Upload Course Learning Outcomes (.docx)</h4>
+    </div>
+    <div class="card-body">
+      <form action="/plo_clo_yes" method="post" enctype="multipart/form-data">
+        <div class="form-row">
+          <div class="form-group col-md-6">
+            <label for="inputFile">Please Upload The Course Learning Outcomes</label>
+            <input type="file" class="form-control-file" name='file' id="inputFile" accept=".doc,.docx,.txt" required>
+          </div>
+        </div>
+        <button type="submit" class="btn btn-primary">Upload</button>
+      </form>
+
+    </div>
+    <div class="card-footer text-muted">
+    </div>
+  </div>
+</div>
+{% endblock %}

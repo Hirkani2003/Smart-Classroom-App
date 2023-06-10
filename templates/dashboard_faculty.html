@@ -1,0 +1,33 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+<div class="col-md-12">
+  <div class="card">
+    <div class="card-header">
+      <h4 class="card-title">Welcome {{ session.uname }}</h4>
+    </div>
+    <div class="card-body">
+      <div class="row">
+        {% for course in courses %}
+        <div class="col-sm-4 mb-3">
+          <div class="card">
+            <div class="card-body">
+              <h5 class="card-title">{{ course.course_name }} <i class="fa fa-book" aria-hidden="true"></i></h5>
+              {% if course.program.plo_clo %}
+              <p class="card-text">Download Learning Outcomes: <a href="{{ url_for('download_plo_clo', program_id=course.program_id) }}">Download</a></p>
+              {% else %}
+              <p class="card-text">No learning outcomes available.</p>
+              {% endif %}
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+    <hr>
+  </div>
+  <div class="card-footer text-muted">
+  </div>
+</div>
+{% endblock %}
+

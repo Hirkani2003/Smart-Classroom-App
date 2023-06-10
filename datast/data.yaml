@@ -1,0 +1,5 @@
+train: ../train/images
+val: ../valid/images
+
+nc: 9
+names: ['Bored', 'Focused', 'Food', 'Laughing', 'Raising_hand', 'Reading Book', 'Thinking', 'Using Phone', 'Writing']

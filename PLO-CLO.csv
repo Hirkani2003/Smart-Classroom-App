@@ -1,0 +1,174 @@
+1,P1,P2,P3,P4,P5,P6
+ Demonstrate computational thinking skills to solve computing problems,1,1,0,0,0,0
+ Describe systems and components involved in building usable computing platforms,1,1,0,1,0,0
+ Identify different IT tools and techniques used in IT systems,1,0,0,0,0,0
+ Discuss IT related ethical issues,0,0,0,1,0,0
+"Translate a problem expressed in English, mathematics or a diagram to a computer program",0,0,0,0,0,0
+" Implement algorithms using programming constructs (variables, control structures, methods)",0,1,0,0,0,0
+ Solve problems using suitable data structures,0,0,0,0,0,0
+"Implement searching, summing and selecting algorithms",0,1,0,0,0,0
+ Design and implement algorithm to solve simple problems,0,1,0,0,0,0
+ Choose suitable data type to represent the information ,0,0,0,0,0,0
+" Apply sequence, selection and repetition structures to solve problems ",0,0,0,0,0,0
+ Design and implement programs containing many methods ,0,1,0,0,0,0
+ Manipulate One-Dimension and Two-Dimension arrays,0,0,0,0,0,0
+Use formal methods of symbolic propositions to evaluate elementary mathematical arguments and identify logical reasoning,0,0,0,0,0,0
+"Prove assertions using basic proof methods, (eg   induction, contrapositive, contradiction, …etc)",0,0,0,0,0,0
+Derive closed-forms of summations and recursive structures,0,0,0,0,0,0
+Apply graph theory and trees models to solve problems of connectivity,0,0,0,0,0,0
+"Use logical notation to define and reason about fundamental mathematical concepts such as sets, relations, functions, matrices and integers",0,0,0,0,0,0
+Convert between different number systems and represent signed numbers in both 1's and 2's complement representation,0,0,0,0,0,0
+Analyze combinational and sequential circuits,1,0,0,0,0,0
+Design and implement combinational and sequential circuits,0,1,0,0,0,0
+"Define a modern computer system's major components, their functions and inter-relationships",0,0,0,0,0,0
+Explain the memory hierarchy structure and the importance and characteristics of each level ,0,0,0,0,0,0
+Describe the components of the instruction sets and the different types of instructions and addressing modes,0,0,0,0,0,0
+Explain the different concepts and functions of the physical layer,0,0,0,0,0,0
+"Apply different mechanisms of error control, flow control and medium access control at the data link layer",1,0,0,0,0,1
+"Explain the main functions of the network layer such as packet switching, IP addressing and fragmentation",0,0,0,0,0,0
+ Discuss the operations and functions of different Transport layer protocols,0,0,0,0,0,0
+Implement classes to solve a given problem,0,1,0,0,0,0
+Test simple classes,0,0,0,0,0,0
+Design classes using existing classes and libraries,0,1,0,0,0,0
+Develop a class hierarchy using inheritance,0,0,0,0,0,0
+Develop classes for simple data structures,0,0,0,0,0,0
+ Design and implement small and medium size software problems using objects ,0,1,0,0,0,0
+ Use Arrays and Array-Lists in solving problems ,0,0,0,0,0,0
+ Implement user-defined classes to solve a given problem ,0,1,0,0,0,0
+ Use predefined libraries to develop programs with graphical user interface ,0,0,0,0,0,0
+ Develop a class hierarchy using inheritance,0,0,0,0,0,0
+Apply project lifecycle processes to an IT project,0,0,0,0,0,0
+Apply IT project techniques and tools to manage an IT project,0,0,0,0,0,0
+Identify internal and external constraints of a given IT project,0,0,0,0,0,0
+Produce documents typically used in the development of an IT project,0,0,0,0,0,0
+"Demonstrate verbal, and written communication skills as part of a team",0,0,0,0,1,0
+"Explain security policies, models, and mechanisms",0,0,0,0,0,0
+Discuss operating system security models and mechanisms,0,0,0,0,0,0
+Describe cryptographic techniques and their applications,0,0,0,0,0,0
+Analyze security threats and vulnerabilities in computer systems,0,0,0,0,0,1
+Define solutions to defend against viruses and other malicious programs,0,0,0,0,0,0
+Explain the logical progression of operating system development,0,0,0,0,0,0
+Explain the necessary components and structures of an operating system,0,0,0,0,0,0
+Install and customize an operating system,0,0,0,0,0,0
+Write simple shell scripts in operating systems ,0,0,0,0,0,0
+Evaluate various methods for process scheduling and inter-process communication,0,0,0,0,0,0
+Explain file-system concepts and operations,0,0,0,0,0,0
+Apply recursion to solve problems,0,0,0,0,0,0
+Use APIs for implementing moderate size programs with data structures,0,0,0,0,0,0
+Design and implement linear data structures,0,1,0,0,0,0
+Design and implement tree data structures,0,1,0,0,0,0
+Model and Solve problems using graphs,0,0,0,0,0,0
+Describe the main concepts of a database system,0,0,0,0,0,0
+Compare a database system approach to a file-based system approach,0,0,0,0,0,0
+Design a database using the entity-relationship diagram (ERD),0,0,0,0,0,0
+Use Relational Algebra to perform various operations on relations,0,0,0,0,0,0
+Apply normalization to database tables,1,0,0,0,0,1
+Function effectively as a team to create and query a database,0,0,0,0,1,0
+ Analyze issues and case studies using ethical decision making based on a code of ethics and formal methods ,0,0,0,1,0,0
+" Identify privacy, freedom of speech and crime issues in Cyberspace",1,0,0,0,0,0
+ Discuss intellectual property and software development issues,0,0,0,0,0,0
+ Discuss the implications of computing in the workplace on workers and employers,1,1,0,1,0,0
+ Discuss the socio-economic implications of online communities and the Digital Divide,0,0,0,0,0,0
+ Function in groups to assess current ethical issues and communicate the results in oral and written form,0,0,0,0,0,0
+ Describe the role and skills of an entrepreneur and cultivate an entrepreneurial mindset,0,0,0,0,0,0
+ Apply the process followed by an entrepreneur in selecting a valuable opportunity for an IT related business,0,0,0,0,0,0
+ Explain the principles and success factors of IT venture planning,0,0,0,1,0,0
+"Evaluate the viability of functional planning in IT ventures, considering key legal and intellectual property issues",0,0,0,1,0,0
+Create a business model and financial plan for an IT venture,0,0,0,0,0,0
+Identify the structure and operations of the workplace,0,0,0,0,0,0
+Recognize the employee rights and responsibilities,0,0,0,1,0,0
+Apply IT knowledge in the workplace,1,0,0,0,0,1
+"Function effectively, professionally and ethically on teams",0,0,1,0,1,0
+Communicate effectively and technically orally and in writing,0,0,1,0,1,0
+Recognize the need for continuing professional development,0,0,1,1,0,0
+Discuss contemporary cryptography and its application,0,0,0,0,0,0
+Apply hash function algorithms,0,0,0,0,1,0
+Investigate the mathematical concepts required for cryptographic algorithms,0,0,0,0,0,0
+Analyze security threats associated with cryptographic algorithms,0,0,0,0,0,1
+Evaluate various cryptographic techniques,0,1,0,0,0,0
+Analyze classic cryptographic algorithms,1,0,0,0,0,0
+Implement symmetric cryptography techniques ,0,1,0,0,0,0
+Implement public-key cryptosystems techniques,0,1,0,0,0,0
+Compare security properties of well-known cryptographic protocols ,0,0,0,0,0,0
+Implement an IPSec VPN solution for a small network,0,1,0,0,0,0
+Describe TCP/IP protocols and common network services,0,0,0,0,0,0
+Explain network traffic and service filtering concepts,0,0,0,0,0,0
+Compare stateless and stateful firewalls,0,0,0,0,0,0
+ Assess firewall filtering rules consistency and efficiency,0,0,0,0,0,0
+Discuss VPN and secure network architectures,0,0,0,0,0,0
+Demonstrate teamwork skills,0,0,0,0,0,0
+ Describe the Internet and e-commerce security protocols,0,0,0,0,0,1
+ Analyze vulnerabilities associated with the insecure Internet and e-commerce protocols,1,0,0,0,0,0
+ Demonstrate how security protocols are used to achieve internet and e-commerce security,0,0,0,0,0,1
+ Communicate issues relevant to public-key infrastructure (PKI),0,0,1,0,0,0
+ Explain the concept of trust (and trust models) on the internet using secure internet protocols,0,0,0,0,0,0
+Discuss common security issues in software,0,0,0,0,0,0
+Analyze software vulnerabilities,1,0,0,0,0,0
+Explain secure software design & development techniques,0,0,0,0,0,0
+Compare various software security testing tools and techniques ,0,0,0,0,0,0
+Analyze web application security threats and countermeasures,0,0,0,0,0,1
+Discuss system security architectures concepts and their attributes,0,0,0,0,0,0
+Design a secure information system using the OM-AM framework,0,1,0,0,0,0
+Apply security access control models,0,0,0,0,0,1
+Analyze security threats associated with information systems and their infrastructures,0,0,0,0,0,1
+Select security countermeasures solutions ,0,0,0,0,0,0
+Evaluate biometric solutions and authentication protocols,0,0,0,0,0,0
+Configure security features of network devices,0,0,0,0,0,0
+Analyze common network threats and attack vectors,0,0,0,0,0,0
+Apply attack mitigation techniques,1,0,0,0,0,1
+"Implement packet filters, stateful firewalls, and application layer firewalls",0,1,0,0,0,0
+Analyze security incidents using intrusion detection and prevention systems,0,0,0,0,0,0
+ Evaluate operating systems security aspects ,0,0,0,0,0,0
+ Configure biometric security systems,0,0,0,0,0,1
+ Implement lattice-based access control model,0,1,0,0,0,0
+ Design active response security architectures,0,0,0,0,0,0
+ Use digital forensics hardware and software tools ,0,0,0,0,0,0
+Analyze designing issues pertaining to information security policies,0,0,0,0,0,0
+Investigate sociological and legal issues in policy implementations,0,0,0,1,0,0
+Apply principles and philosophies which underlie successful information security governance,1,0,0,0,0,1
+Discuss interactions between information security concerns and business objectives,0,0,0,0,0,0
+Evaluate information security activities within the implementation of projects,0,0,0,0,0,0
+Analyze common security threats and network attacks,0,0,0,0,0,1
+Evaluate IPS attack signature rules,0,1,0,0,0,0
+Compare appropriate countermeasures for common network attacks,0,0,0,0,0,0
+Discuss system security auditing and vulnerability assessment,0,0,0,0,0,0
+Demonstrate teamwork skills,0,0,0,0,0,0
+ Investigate privacy concerns in different contexts,0,0,1,0,0,0
+ Apply privacy protection solutions,1,0,0,0,0,0
+ Analyze shortcomings of existing privacy technologies and challenges to privacy protection ,1,0,0,0,0,0
+" Discuss privacy legislation, policies and best practices in different contexts",0,0,0,0,0,0
+ Design an information security risk management program for an organization,0,1,0,0,0,0
+Implement an information security risk management roadmap,0,0,0,0,0,0
+Manage an information security risk assessment consulting contract,0,0,0,0,0,0
+Compare risk assessment techniques ,0,0,0,0,0,0
+Discuss laws affecting digital forensics,0,0,0,0,0,0
+Analyze concepts of computer digital forensics,1,0,0,0,0,0
+Evaluate current computer digital forensics tools,0,1,0,0,0,0
+Conduct software and hardware based digital forensic analysis,0,1,0,1,0,0
+Evaluate web and cloud based digital forensic tools,0,1,0,1,0,0
+Assess digital forensics on mobile devices and applications,0,0,0,0,0,0
+Discuss security management policies and best practices ,0,0,0,0,0,1
+Analyze and implement Business Continuity Planning (BCP) and Disaster Recovery Planning (DRP),0,0,0,0,0,0
+Criticize legal and ethical implications on security management ,0,0,0,1,0,0
+Apply risk evaluation and mitigation strategies,1,0,0,0,0,1
+Apply ISMS standards,1,0,0,0,0,1
+Analyze risk management and auditing techniques  ,1,0,0,0,0,0
+Assess vulnerabilities of a hardware device or system,0,0,0,0,0,0
+Analyze attacks on hardware systems,1,0,0,0,0,0
+Integrate hardware security measures as a design metric,0,0,0,0,0,0
+"Apply detection, prevention and isolation methods against hardware attacks",1,0,0,0,0,1
+Evaluate security and trust of hardware systems  ,0,0,0,0,0,0
+Describe database security models and architectures,0,0,0,0,0,1
+Analyze security vulnerabilities in databases,0,0,0,0,0,0
+Apply database security models and policies on modern databases,0,0,0,0,0,1
+Discuss data and applications auditing procedures for database security,0,0,0,0,0,0
+Compare various database security and defense mechanisms,0,0,0,0,0,0
+ Evaluate options for a needed security solution ,0,1,0,0,0,0
+ Compare various security mechanisms ,0,0,0,0,0,0
+  Apply current security solutions to address certain requirements,1,0,0,0,0,1
+ Analyze the performance of applied security solutions  ,1,0,0,0,0,0
+ Explain the basic principles of the data mining process,0,0,0,0,0,0
+ Prepare data for mining and exploration ,0,0,0,0,0,0
+Use data mining techniques and modern tools to discover trends and patterns in realistic datasets,0,0,0,0,0,0
+Evaluate different data mining models/techniques with respect to their performance accuracy,0,1,0,0,0,0
+Function on teams and communicate effectively in written and oral forms,0,0,1,0,1,0

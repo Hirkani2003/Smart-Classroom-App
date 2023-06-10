@@ -1,0 +1,58 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+  <div class="jumbotron jumbotron-fluid bg-primary text-white py-5">
+    <div class="container">
+      <h1 class="display-4 text-center mb-3">Welcome to PLO CLO Mapper</h1>
+      <p class="lead text-center">Empower your learning outcomes with our powerful mapping tool</p>
+      <div class="text-center mt-4">
+        <a href="#learn-more" class="btn btn-lg btn-outline-light">Learn More</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="container my-5">
+    <div class="row">
+      <div class="col-md-6 mb-4">
+        <div class="card h-100 border-0 shadow-lg">
+          <div class="card-body">
+            <h5 class="card-title text-center mb-4">Student Login</h5>
+            <p class="card-text text-center">Access your course learning outcomes</p>
+            <div class="text-center">
+              <a href="/login_student" class="btn btn-lg btn-primary">
+                Log in as Student
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-6 mb-4">
+        <div class="card h-100 border-0 shadow-lg">
+          <div class="card-body">
+            <h5 class="card-title text-center mb-4">Faculty Login</h5>
+            <p class="card-text text-center">Generate mapping for learning outcomes</p>
+            <div class="text-center">
+              <a href="/login_faculty" class="btn btn-lg btn-primary">
+                Log in as Faculty
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container my-5" id="learn-more">
+    <div class="row">
+      <div class="col-md-6 offset-md-3">
+        <div class="card border-0 shadow-lg">
+          <div class="card-body">
+            <h2 class="card-title text-center mb-4">Learn More About PLO CLO Mapper</h2>
+            <p class="card-text text-center">PLO CLO Mapper is an innovative tool designed to help students and faculty members achieve their learning goals. Whether you're looking to access course learning outcomes or generate mapping for learning outcomes, PLO CLO Mapper has everything you need to succeed.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+{% endblock %}
